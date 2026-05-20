@@ -12,6 +12,6 @@ set(CTEST_PROJECT_NAME "AdePT")
 set(CTEST_NIGHTLY_START_TIME "00:00:00 UTC")
 
 set(CTEST_DROP_METHOD "http")
-set(CTEST_DROP_SITE "cdash.cern.ch")
+set(CTEST_DROP_SITE "cdash-sft.web.cern.ch")
 set(CTEST_DROP_LOCATION "/submit.php?project=AdePT")
 set(CTEST_DROP_SITE_CDASH TRUE)
